@@ -37,3 +37,15 @@ Este é um bot para Discord desenvolvido com `discord.py` que oferece diversos c
 1. Clone este repositório em sua máquina:
    ```bash
    git clone https://github.com/pedroosamp/discordpy-bot.git
+2. Instale as dependências:
+   ```bash
+   pip install -r requirements.txt
+4. Crie um arquivo config.json na raiz do projeto com o seguinte conteúdo:
+   ```bash
+   {
+     "token": "SEU_TOKEN_AQUI",
+     "prefix": "."
+   }
+6. Execute o bot:
+   ```bash
+   python bot.py
