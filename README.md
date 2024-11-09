@@ -1,4 +1,4 @@
-# Discord Bot - Ajuda & Comandos
+# Discord.py Example - Tutorial
 
 Este é um bot para Discord desenvolvido com `discord.py` que oferece diversos comandos úteis, incluindo funcionalidades de administração, interação com usuários e status dinâmico.
 
