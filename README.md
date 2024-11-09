@@ -46,6 +46,6 @@ Este é um bot para Discord desenvolvido com `discord.py` que oferece diversos c
      "token": "SEU_TOKEN_AQUI",
      "prefix": "."
    }
-6. Execute o bot:
+5. Execute o bot:
    ```bash
    python bot.py
